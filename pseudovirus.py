@@ -1,11 +1,11 @@
 try:
-	nomedoarquivo = "001.txt"
+	nomedoarquivo = 0
 	contador = 1
 	while True:
-		open(nomedoarquivo, 'w')
-		nomedoarquivo = nomedoarquivo + 'a'
+		open(str(nomedoarquivo)+'.txt', 'w')
+		nomedoarquivo = int(nomedoarquivo) + 1
 		contador += 1
-		if contador == 70: #caso queira lascar tudo, só tirar esse if c:
+		if contador == 10: #caso queira lascar tudo, só tirar esse if c:
 			break
 except Exception as erro:
 	print("Error:",erro)
