@@ -63,9 +63,9 @@ while True:
 		contador += 1
 	print("Sua nota é:",contador)
 	if contador > 9:
-	print("Parabéns! você tirou a nota máxima")
+		print("Parabéns! você tirou a nota máxima")
 	print("Deseja fazer a Prova Novamente?")
-	menu = int(input("1- Sim\n2-Não"))
+	menu = int(input("1-Sim\n2-Não\nDigite Sua Resposta: "))
 	if menu == 1:
 		print("here we go again!")
 	if menu == 2:
