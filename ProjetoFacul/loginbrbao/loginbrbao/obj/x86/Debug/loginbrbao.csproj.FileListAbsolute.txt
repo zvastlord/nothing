@@ -1,0 +1,48 @@
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\bin\Debug\loginbrbao.pdb
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form1.resources
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form2.resources
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form3.resources
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Properties.Resources.resources
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.GenerateResource.Cache
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.exe
+C:\Users\0781711024\Documents\Visual Studio 2010\Projects\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.pdb
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\bin\Debug\loginbrbao.pdb
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\bin\Debug\MySql.Data.dll
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csprojAssemblyReference.cache
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form1.resources
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form2.resources
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form3.resources
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Properties.Resources.resources
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.GenerateResource.cache
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.CopyComplete
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.exe
+C:\Users\lucia\Downloads\loginbrbao\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.pdb
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.exe
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.pdb
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe.config
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\bin\Debug\loginbrbao.pdb
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form1.resources
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form2.resources
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form3.resources
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Properties.Resources.resources
+C:\Users\Rafa\Downloads\projeto engenharia de software\projeto engenharia de software\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.GenerateResource.Cache
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe.config
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.exe
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.pdb
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form1.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form2.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form3.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Properties.Resources.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.csproj.GenerateResource.Cache
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\bin\Debug\loginbrbao.exe
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\bin\Debug\loginbrbao.pdb
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form4.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form5.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form6.resources
+C:\Users\Rafa\Desktop\ProjetoFacul\loginbrbao\loginbrbao\obj\x86\Debug\loginbrbao.Form7.resources
